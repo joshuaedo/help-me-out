@@ -1,7 +1,7 @@
-export default function VideoPage() {
+export default function HomePage() {
     return (
       <main className="">
-        VideoPage
+        HomePage
       </main>
     )
   }
